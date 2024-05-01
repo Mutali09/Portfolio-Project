@@ -1,0 +1,16 @@
+QuizWhiz MVP Specification.
+Architecture
+My web app is a single-page app, coded mainly in JavaScript. QuizWhiz is front-end heavy. It is a simple, easy to use, and fun app. Most of the User Interface will be designed using plain CSS and HTML to structure web pages.
+I have decided to learn more about React.js framework which I will for front-end development. React.js is known for its simplicity, reusability, and performance optimizations, making it a popular choice for frontend development. I will use React.js to create reusable UI components for displaying quiz questions, options, results, and interactive elements.
+Frontend Components:
+Quiz Component: The main component responsible for rendering the quiz interface. It includes sub-components for displaying questions, options, and handling user interactions.
+Question Component: A reusable component for rendering individual quiz questions. It receives question data as props and displays the question text.
+Options Component: A component for rendering multiple-choice options for each question. It receives options data as props and handles user selection.
+Results Component: A component for displaying quiz results, including the user's score and feedback. It receives results data as props and displays them in a visually appealing manner.
+Navigation Component: A component for navigating between quiz questions and managing quiz progress.
+User Stories
+As a quiz creator, I want to be able to create a new quiz with a title and description, so that I can engage users with interesting content.
+As a quiz taker, I want to be able to select a quiz from a list of available quizzes, so that I can start playing and testing my knowledge.
+As a quiz taker, I want to be able to answer multiple-choice questions within a quiz, so that I can participate and progress through the quiz.
+As a quiz taker, I want to receive immediate feedback on whether my answer was correct or incorrect, so that I can learn from my mistakes and improve my knowledge.
+As a quiz creator, I want to view the overall performance and scores of quiz takers, so that I can understand the effectiveness of my quizzes and make improvements if necessary.
