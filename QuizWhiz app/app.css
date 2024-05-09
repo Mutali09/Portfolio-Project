@@ -1,6 +1,6 @@
 :root {
-    background-color: #f1ecff;
-    font-size: 70.5%;
+    background-color: black;
+    font-size: 50%;
   }
   
   * {
@@ -30,9 +30,9 @@
   }
   
   h2 {
-    font-size: 4.2rem;
+    font-size: 4cap;
     margin-bottom: 4rem;
-    font-weight: 600;
+    font-weight: 400;
   }
   
   h3 {
@@ -43,7 +43,7 @@
   /* UTILITIES */
   
   .container {
-    width: 100vw;
+    width: 150vw;
     height: 100vh;
     display: flex;
     justify-content: center;
@@ -51,10 +51,11 @@
     max-width: 80rem;
     margin: 0 auto;
     padding: 2rem;
+    background-color: rgb(150, 43, 226);
   }
   
   .container > * {
-    width: 100%;
+    width: 200%;
   }
   
   .flex-column {
@@ -85,11 +86,11 @@
     padding: 1rem 0;
     width: 20rem;
     text-align: center;
-    border: 0.1rem solid #5956eb;
+    border: 0.1rem solid #d2eb56;
     margin-bottom: 1rem;
     text-decoration: none;
-    color: #56a5eb;
-    background-color: rgb(255, 255, 255);
+    color: #99eb56;
+    background-color: black
   }
   
   .btn:hover {
@@ -123,5 +124,5 @@
   }
   
   input::placeholder {
-    color: #aaa;
+    color: #aaaaaa;
   }
