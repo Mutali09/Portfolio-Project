@@ -14,7 +14,7 @@ let availableQuesions = [];
 let questions = [];
 
 fetch(
-    'https://opentdb.com/api.php?amount=20&category=22&difficulty=easy&type=multiple'
+    'https://opentdb.com/api.php?amount=15&category=16&difficulty=easy&type=multiple'
 )
     .then((res) => {
         return res.json();
@@ -48,7 +48,7 @@ fetch(
 
 //CONSTANTS
 const CORRECT_BONUS = 10;
-const MAX_QUESTIONS = 20;
+const MAX_QUESTIONS = 15;
 
 startQuiz = () => {
     questionCounter = 0;
