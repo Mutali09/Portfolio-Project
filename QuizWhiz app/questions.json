@@ -1,0 +1,136 @@
+[
+    {
+        "question" : "What is the capital city of France ?",
+        "choice1" : "Paris",
+        "choice2" : "Rome",
+        "choice3" : "London",
+        "choice4" : "Berlin",
+        "answer" : 1
+
+    },
+    {
+        "question" : "Which planet is know as the Red Planet ?",
+        "choice1" : "Venus",
+        "choice2" : "Mars",
+        "choice3" : "Jupiter",
+        "choice4" : "Saturn",
+        "answer" : 2
+
+    },
+    {
+        "question" : "Who wrote the novel "To kill a Mockingbird" ?",
+        "choice1" : "Ernest Hemingway",
+        "choice2" : "Herper Lee",
+        "choice3" : "Stephen King",
+        "choice4" : "J.K. Rowling",
+        "answer" : 2
+
+    },
+    {
+        "question" : "What is the chemical symbol for water ?",
+        "choice1" : "H2O",
+        "choice2" : "CO2",
+        "choice3" : "NaCl",
+        "choice4" : "O2",
+        "answer" : 1
+
+    },
+    {
+        "question" : "Which ocean is the larget by area ?",
+        "choice1" : "Atlantic Ocean",
+        "choice2" : "Indian Ocean",
+        "choice3" : "Pacific Ocean",
+        "choice4" : "Arctic Ocean",
+        "answer" : 3
+
+    },
+    {
+        "question" : "Who painted the Mona Lisa ?",
+        "choice1" : "Vincent Van Gogh",
+        "choice2" : "Pablo Picasso",
+        "choice3" : "Leonardo Da Vinci",
+        "choice4" : "Michelango",
+        "answer" : 3
+
+    },
+    {
+        "question" : "What is the capital city of Kenya ?",
+        "choice1" : "Cairo",
+        "choice2" : "Kampala",
+        "choice3" : "Nairobi",
+        "choice4" : "Zanzibar",
+        "answer" : 3
+
+    },
+    {
+        "question" : "Which planet is closest to the sun ?",
+        "choice1" : "Mercury",
+        "choice2" : "venus",
+        "choice3" : "Earth",
+        "choice4" : "Jupiter",
+        "answer" : 1
+
+    },
+    {
+        "question" : "On Which Day Independence Day is Celebrated ?",
+        "choice1" : "10 Oct",
+        "choice2" : "15 Aug",
+        "choice3" : "20 Dec",
+        "choice4" : "20 Jan",
+        "answer" : 2
+
+    },
+    {
+        "question" : "Who wrote the play "Romeo and Juliet" ?",
+        "choice1" : "George Orwell",
+        "choice2" : "Jane Austin",
+        "choice3" : "Charles",
+        "choice4" : "William Shakespeare",
+        "answer" : 4
+
+    },
+    {
+        "question" : "What is the larget mammal in the world ?",
+        "choice1" : "Blue whale",
+        "choice2" : "Lion",
+        "choice3" : "Elephant",
+        "choice4" : "Giraffe",
+        "answer" : 1
+
+    },
+    {
+        "question" : "Who was the First Prime Minister Of India ?",
+        "choice1" : "Swami Vivekanda",
+        "choice2" : "Pandit Jawaharlal Nehru",
+        "choice3" : "Lal Bahadur Shastri",
+        "choice4" : "Indira Gandhi",
+        "answer" : 2
+
+    },
+    {
+        "question" : "In which year did the Titanic sink ?",
+        "choice1" : "1914",
+        "choice2" : "1912",
+        "choice3" : "1920",
+        "choice4" : "1930",
+        "answer" : 2
+
+    },
+    {
+        "question" : "Who discovered penicillin ?",
+        "choice1" : "Alexander Fleming",
+        "choice2" : "Marie Curie",
+        "choice3" : "Isaac Newton",
+        "choice4" : "Albert Einstein",
+        "answer" : 1
+
+    },
+    {
+        "question" : "What does "HTML" stand for in web development ?",
+        "choice1" : "Hyperlink and Text Markup Language",
+        "choice2" : "Hypertext Markup Language",
+        "choice3" : "High Tech Markup Language",
+        "choice4" : "Hypertext Management Language",
+        "answer" : 2
+    }
+]
